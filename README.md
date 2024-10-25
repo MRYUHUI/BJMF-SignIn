@@ -8,13 +8,13 @@
 
 ### 获取 URL 和 个人 cookie
 
-1. 打开 [Fiddler]([The Ultimate Web Debugging Tool - Download Fiddler Everywhere | Telerik](https://www.telerik.com/download/fiddler-everywhere)) 和班级魔方找到 `/student/punchs` 开头的链接点开
+1. 打开 [Fiddler](https://www.telerik.com/download/fiddler-everywhere)和班级魔方找到 `/student/punchs` 开头的链接点开
 
-   <img src="D:\A_Project\Python\BJMF-SignIn\assets\README\image-20241025212245071.png" alt="image-20241025212245071" style="zoom:70%;" />
+   ![image](D:\A_Project\Python\BJMF-SignIn\assets\README\image-20241025212245071.png)
 
 2. 在右侧的 `raw` 里找到 url 和 cookie
 
-   <img src="D:\A_Project\Python\BJMF-SignIn\assets\README\image-20241025214215403.png" alt="image-20241025214215403" style="zoom:80%;" />
+   ![image](D:\A_Project\Python\BJMF-SignIn\assets\README\image-20241025214215403.png)
 
 ## 获取需要的坐标
 
