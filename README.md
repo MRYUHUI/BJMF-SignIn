@@ -10,11 +10,11 @@
 
 1. 打开 [Fiddler](https://www.telerik.com/download/fiddler-everywhere)和班级魔方找到 `/student/punchs` 开头的链接点开
 
-   ![image](https://github.com/MRYUHUI/BJMF-SignIn/tree/main/assets/README/image-20241025212245071.png)
+   ![image](https://github.com/MRYUHUI/BJMF-SignIn/blob/main/assets/README/image-20241025212245071.png)
 
 2. 在右侧的 `raw` 里找到 url 和 cookie
 
-   ![image](https://github.com/MRYUHUI/BJMF-SignIn/tree/main/assets/README/image-20241025214215403.png)
+   ![image](https://github.com/MRYUHUI/BJMF-SignIn/blob/main/assets/README/image-20241025214215403.png)
 
 ## 获取需要的坐标
 
